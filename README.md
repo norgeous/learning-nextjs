@@ -1,8 +1,22 @@
 # nextjs template
 
-This repo is just for me to experiment with NextJS and a few other technologies
+This repo is just for me to experiment with some technologies
 
-- [ ] NextJS
-- [ ] React 19
+## tech
+
+- [ ] NextJS (latest)
+- [ ] React 19 (pre-release stable)
 - [ ] Storybook
 - [ ] tailwind
+- [ ] NestJS
+
+## Learning objectives
+
+- [ ] how server components play with storybook
+- [ ] what data fetching in server components looks like
+- [ ] what data fetching in client components looks like with "use" hook
+- [ ] how "use" hook works with a react context
+- [ ] how to use tailwind, and do tailwind stuff in storybook
+- [ ] what exactly is nest js
+- [ ] refresh memory on StoryBook features; play testing, visdiff, a11y, etc
+- [ ] discover cool new StoryBook features (if any)

@@ -17,7 +17,7 @@ This repo is just for me to experiment with some technologies.
 - [ ] what data fetching in client components looks like with "use" hook
 - [ ] how "use" hook works with a react context
 - [ ] experiment with suspense 
-- [ ] experiment with new hooks; useActionState, useFormStatus and useOptimistic
+- [ ] experiment with new hooks; useActionState, useFormStatus, useOptimistic and useImperativeHandle
 - [ ] how to use tailwind, and do tailwind stuff in storybook
 - [ ] what exactly is nest js
 - [ ] refresh memory on StoryBook features; play testing, visdiff, a11y, etc
